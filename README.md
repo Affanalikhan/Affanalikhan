@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=200&section=header&text=Affan%20Ali%20Khan&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Scientist%20%E2%80%A2%20ML%20Engineer%20%E2%80%A2%20AI%20Developer&descAlignY=58&descSize=18&descColor=a8b2d8" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=200&section=header&text=Affan%20Ali%20Khan&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Scientist%20%E2%80%A2%20Business%20Analyst%20%E2%80%A2%20ML%20Engineer%20%E2%80%A2%20AI%20Systems%20Builder&descAlignY=58&descSize=18&descColor=a8b2d8" width="100%"/>
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=18&duration=3500&pause=1000&color=64FFDA&center=true&vCenter=true&width=600&lines=Building+ML+pipelines+%26+AI+systems;Data+Science+%40+PES+Institute+%7C+GPA+8.5;Interning+%40+Intellectus+AI+Labs+%26+QSpiders;SIH+2025+Finalist+%26+Runner-up+%E2%80%94+AthleteX;National-level+Sprinter+%F0%9F%8F%83+100m+%7C+200m+%7C+4x100m)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=18&duration=3500&pause=1000&color=64FFDA&center=true&vCenter=true&width=650&lines=Data+Scientist+%7C+Business+Analyst+%7C+ML+Engineer;Building+AI+systems+%26+data-driven+solutions;Data+Science+%40+PES+Institute+%7C+GPA+8.5;Interning+%40+Intellectus+AI+Labs+%26+QSpiders;SIH+2025+Finalist+%26+Runner-up+%E2%80%94+AthleteX)](https://git.io/typing-svg)
 
 <br/>
 
@@ -20,13 +20,15 @@
 
 ## About
 
-I'm a third-year Computer Science & Data Science student at **PES Institute of Technology and Management, Shivamogga** (VTU, GPA 8.5), currently interning at **Intellectus AI Labs** and **QSpiders Global** in Bengaluru.
+Third-year **CS & Data Science** student at **PES Institute of Technology and Management, Shivamogga** (VTU, GPA 8.5), currently interning at **Intellectus AI Labs** and **QSpiders Global** in Bengaluru.
 
-I build end-to-end ML pipelines, AI agents, and data-driven systems — from stock trend prediction to predictive maintenance to athletic performance analytics. Outside of data, I'm a national-level sprinter (100m, 200m, 4×100m relay).
+I work across three overlapping domains — **Data Science** (EDA, predictive modeling, statistical analysis), **Business Analysis** (translating data into decisions, CRISP-DM, structured problem framing), and **Machine Learning Engineering** (building and deploying models end-to-end). I also design and build **AI systems** — agents, knowledge graphs, and Graph-RAG pipelines — when the problem calls for it.
+
+Outside of data, I'm a national-level sprinter (100m, 200m, 4×100m relay).
 
 ```
 📍 Shivamogga, Karnataka, India
-🎓 B.E. Computer Science & Engineering (Data Science) — VTU
+🎓 B.E. Computer Science & Engineering (Data Science) — VTU  |  GPA: 8.5
 💼 AI Developer Intern @ Intellectus AI Labs  |  Python for DS Intern @ QSpiders Global
 🏆 SIH 2025 Finalist & Runner-up  |  AI Genesis Hackathon Finalist (UAE)  |  NASSCOM 2025
 ```
