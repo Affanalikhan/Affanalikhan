@@ -1,434 +1,183 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&customColorList=0,2,2,5,30&text=AFFAN%20ALI%20KHAN&fontSize=60&fontColor=00FFFF&animation=twinkling&desc=Data%20Scientist%20%7C%20ML%20Engineer%20%7C%20AI%20Developer%20%7C%20National-level%20Athlete&descSize=18&descAlignY=75&stroke=00FFFF&strokeWidth=2" width="100%"/>
-
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=24&duration=3000&pause=800&color=00FFFF&center=true&vCenter=true&multiline=false&random=false&width=750&height=70&lines=%F0%9F%A4%96+Building+AI+Systems+%26+ML+Pipelines;%F0%9F%93%88+Golden+Cross+Predictor+%40+72%25+Precision;%F0%9F%A7%A0+Graph-RAG+%7C+Knowledge+Graphs+%7C+CRISP-DM;%E2%9A%A1+XGBoost+%7C+LSTM+%7C+Random+Forest+%7C+EDA;%F0%9F%8F%83+National-level+Sprinter+%E2%80%94+100m+%7C+200m+%7C+4x100m" alt="Typing SVG" /></a>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=200&section=header&text=Affan%20Ali%20Khan&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Scientist%20%E2%80%A2%20ML%20Engineer%20%E2%80%A2%20AI%20Developer&descAlignY=58&descSize=18&descColor=a8b2d8" width="100%"/>
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Affan_Ali_Khan-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A1929)](https://linkedin.com/in/affan-ali-khan-679a27249)
-[![Email](https://img.shields.io/badge/Gmail-Reach_Out-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0A1929)](mailto:affanaftab1960@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-@Affanalikhan-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0A1929)](https://github.com/Affanalikhan)
-[![AthleteX](https://img.shields.io/badge/Live_Demo-AthleteX-00FFAA?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0A1929)](https://athletex1.netlify.app)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=18&duration=3500&pause=1000&color=64FFDA&center=true&vCenter=true&width=600&lines=Building+ML+pipelines+%26+AI+systems;Data+Science+%40+PES+Institute+%7C+GPA+8.5;Interning+%40+Intellectus+AI+Labs+%26+QSpiders;SIH+2025+Finalist+%26+Runner-up+%E2%80%94+AthleteX;National-level+Sprinter+%F0%9F%8F%83+100m+%7C+200m+%7C+4x100m)](https://git.io/typing-svg)
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=Affanalikhan&color=00FFFF&style=for-the-badge&label=NEURAL+VISITORS)
-[![GitHub followers](https://img.shields.io/github/followers/Affanalikhan?label=Followers&style=for-the-badge&color=00FFFF&labelColor=0A1929&logo=github)](https://github.com/Affanalikhan?tab=followers)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/affan-ali-khan-679a27249)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:affanaftab1960@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-171515?style=flat-square&logo=github&logoColor=white)](https://github.com/Affanalikhan)
+[![AthleteX](https://img.shields.io/badge/AthleteX_Live-00C7B7?style=flat-square&logo=netlify&logoColor=white)](https://athletex1.netlify.app)
+![Profile Views](https://komarev.com/ghpvc/?username=Affanalikhan&color=64ffda&style=flat-square&label=Profile+Views)
 
 </div>
 
-<br/>
+---
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+## About
 
-<br/>
+I'm a third-year Computer Science & Data Science student at **PES Institute of Technology and Management, Shivamogga** (VTU, GPA 8.5), currently interning at **Intellectus AI Labs** and **QSpiders Global** in Bengaluru.
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=2" width="100%"/>
+I build end-to-end ML pipelines, AI agents, and data-driven systems — from stock trend prediction to predictive maintenance to athletic performance analytics. Outside of data, I'm a national-level sprinter (100m, 200m, 4×100m relay).
 
-<h2><img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=22&duration=4000&pause=99999&color=00FFAA&center=false&vCenter=true&width=220&height=35&lines=%3C%2F%3E+ABOUT+ME" alt="About Me"/></h2>
+```
+📍 Shivamogga, Karnataka, India
+🎓 B.E. Computer Science & Engineering (Data Science) — VTU
+💼 AI Developer Intern @ Intellectus AI Labs  |  Python for DS Intern @ QSpiders Global
+🏆 SIH 2025 Finalist & Runner-up  |  AI Genesis Hackathon Finalist (UAE)  |  NASSCOM 2025
+```
+
+---
+
+## Tech Stack
+
+<div align="center">
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-FF6600?style=for-the-badge&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+</div>
+
+---
+
+## Featured Projects
 
 <table>
 <tr>
-<td valign="top" width="55%">
+<td width="50%" valign="top">
 
-```python
-#!/usr/bin/env python3
-# ╔══════════════════════════════════════════╗
-# ║       AFFAN_ALI_KHAN . init ()          ║
-# ╚══════════════════════════════════════════╝
+**📈 Golden Cross / Death Cross Predictor**
 
-class DataScientist:
-    name        = "Affan Ali Khan"
-    role        = "Data Scientist & AI Developer"
-    university  = "PES IT&M Shivamogga · VTU"
-    year        = "3rd Year · CS & Engineering (DS)"
-    gpa         = "8.5 / 10"
-    location    = "Shivamogga, Karnataka, India 🇮🇳"
+ML model predicting stock trend reversal signals using XGBoost with walk-forward validation. Engineered RSI, MACD, and moving average features from historical price data.
 
-    core_domains = [
-        "📈  ML · Regression · Classification",
-        "🤖  AI Systems · Graph-RAG · CRISP-DM",
-        "📊  EDA · Feature Engineering · SQL",
-        "🏃  National-level Sprinter ⚡",
-    ]
+- 72% precision · 75% recall across multiple stocks
+- Outperforms traditional moving-average crossover signals
+- Walk-forward validation for time-series robustness
 
-    currently = {
-        "interning"   : ["Intellectus AI Labs", "QSpiders Global"],
-        "building"    : ["Golden Cross Predictor", "DANA AI Agent"],
-        "researching" : ["Graph-RAG", "Predictive Maintenance"],
-        "open_to"     : ["DS Roles", "Research Collabs", "OSS"],
-    }
-
-    achievements = [
-        "SIH 2025 Finalist & Runner-up — AthleteX",
-        "AI Genesis Hackathon Finalist — UAE",
-        "NASSCOM Technology Conference 2025",
-        "National Athlete: 100m · 200m · 4x100m",
-    ]
-
-    philosophy = "Data tells stories. I make them speak. 🚀"
-
-    def __str__(self):
-        return (
-            "Training models by day ☀️\n"
-            "Chasing insights by night  🌙"
-        )
-
-me = DataScientist()
-print(me)
-```
+`Python` `XGBoost` `Pandas` `NumPy` `TA-Lib`
 
 </td>
-<td valign="top" width="45%">
+<td width="50%" valign="top">
 
-<br/>
+**🤖 CRISP-DM Clarification Agent (DANA)**
 
-**🧬 Who am I?**
+AI agent assisting analysts during the CRISP-DM problem understanding phase. Automated dataset profiling with a Graph-RAG based clarification engine using knowledge graphs.
 
-Third-year **CS & Data Science** student at PES IT&M (VTU), interning at **Intellectus AI Labs** and **QSpiders Global**. I build ML pipelines, AI agents, and data-driven systems — and I bring the same discipline from the track to every model I train.
+- Detects missing values, feature types, distributions, anomalies
+- Graph-RAG engine generates structured clarification questions
+- Reduces ambiguity in early-stage data analysis
 
-<br/>
+`Python` `Graph-RAG` `Knowledge Graphs` `FastAPI`
 
-**⚡ Right now I'm...**
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-| Mode | Focus |
-|------|-------|
-| 💼 **Interning** | Intellectus AI Labs |
-| 🔨 **Building** | Golden Cross Predictor |
-| 🔬 **Researching** | Graph-RAG · CRISP-DM |
-| 🤝 **Open to** | DS Roles & Collabs |
+**🏃 AthleteX — SIH 2025 Runner-up** &nbsp; [![Live](https://img.shields.io/badge/Live-00C7B7?style=flat-square&logo=netlify&logoColor=white)](https://athletex1.netlify.app) [![Repo](https://img.shields.io/badge/Repo-171515?style=flat-square&logo=github&logoColor=white)](https://github.com/Affanalikhan/AthleteX)
 
-<br/>
+AI-powered athletic performance platform connecting athletes, trainers, universities and SAI. Pose detection with MediaPipe + TensorFlow.js, offline-first Android app, NEP 2020 compliance.
 
-**🌍 Fast facts**
-```
-∘ XGBoost stock model @ 72% precision
-∘ NASA Turbofan RUL — RMSE 15.2
-∘ AthleteX pose detection @ 85–98% acc
-∘ National-level sprinter 🏃 100m · 200m
-∘ IBM Data Science Professional Certified
-```
+- 85–98% accuracy on 11 fitness assessments
+- Full-stack: React + Node.js + MongoDB + Capacitor
 
-<br/>
+`React` `TypeScript` `TensorFlow.js` `MediaPipe` `MongoDB`
+
+</td>
+<td width="50%" valign="top">
+
+**✈️ NASA Turbofan RUL Prediction**
+
+Remaining Useful Life prediction for jet engines using an ensemble of LSTM, Random Forest, and XGBoost. Built at Intellectus AI Labs for predictive maintenance use cases.
+
+- RMSE of 15.2 on C-MAPSS test dataset
+- LSTM captures temporal degradation patterns
+- Enables proactive failure prevention
+
+`Python` `LSTM` `XGBoost` `Random Forest` `TensorFlow`
 
 </td>
 </tr>
 </table>
 
-<br/>
+---
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<br/>
-
-## 🏆 ACHIEVEMENT MATRIX
+## GitHub Stats
 
 <div align="center">
 
-| 📈 | 🤖 | 🏅 | 🏃 |
-|:---:|:---:|:---:|:---:|
-| **Stock Predictor** | **AI Agent Builder** | **SIH 2025** | **National Athlete** |
-| 72% precision · 75% recall 🟢 | Graph-RAG · CRISP-DM 🔵 | Finalist & Runner-up 🟢 | 100m · 200m · 4x100m 🔵 |
-| 🔬 | ⚡ | 🌍 | 📜 |
-|:---:|:---:|:---:|:---:|
-| **NASA RUL Prediction** | **AthleteX Platform** | **UAE Hackathon** | **IBM Certified** |
-| RMSE 15.2 · LSTM+XGB 🟢 | 85–98% pose accuracy 🔵 | AI Genesis Finalist 🟢 | Data Science Pro 🔵 |
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Affanalikhan&show_icons=true&hide_border=true&bg_color=0d1117&title_color=64ffda&icon_color=64ffda&text_color=a8b2d8&include_all_commits=true&count_private=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Affanalikhan&layout=compact&hide_border=true&bg_color=0d1117&title_color=64ffda&text_color=a8b2d8&langs_count=7"/>
 
 <br/>
 
-![Affan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Affanalikhan&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00FFAA&icon_color=00FFFF&text_color=C9D1D9&border_radius=12&include_all_commits=true&count_private=true&cache_seconds=86400)
-&nbsp;
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Affanalikhan&layout=donut&hide_border=true&bg_color=0D1117&title_color=00FFAA&text_color=C9D1D9&border_radius=12&langs_count=6&cache_seconds=86400)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Affanalikhan&theme=dark&hide_border=true&background=0d1117&ring=64ffda&fire=64ffda&currStreakLabel=64ffda&sideLabels=a8b2d8&dates=555)](https://git.io/streak-stats)
 
 <br/>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Affanalikhan&theme=dark&hide_border=true&background=0D1117&ring=00FFAA&fire=00FFFF&currStreakLabel=00FFAA&sideLabels=C9D1D9&dates=4A4A4A&border_radius=12)](https://git.io/streak-stats)
-
-<br/>
-
-[![Affan's Activity](https://github-readme-activity-graph.vercel.app/graph?username=Affanalikhan&bg_color=0D1117&color=00FFAA&line=00FFFF&point=FFFFFF&area=true&area_color=003322&hide_border=true&radius=8)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Affanalikhan&bg_color=0d1117&color=64ffda&line=64ffda&point=ffffff&area=true&area_color=0d2a22&hide_border=true&radius=6)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
-<br/>
+---
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+## Certifications
 
-<br/>
+| Certificate | Issuer |
+|---|---|
+| IBM Data Science Professional Certificate | Coursera |
+| Career Essentials in Business and Data Analysis | Microsoft & LinkedIn |
+| Python for Data Science | NPTEL — IIT Madras |
+| Data Science Using Python | SWAYAM — AMU |
 
-<h2><img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=22&duration=4000&pause=99999&color=00FFAA&center=false&vCenter=true&width=400&height=35&lines=%E2%9A%A1+NEURAL+STACK+%E2%80%94+TECHNOLOGIES" alt="Neural Stack"/></h2>
+---
 
-<div align="center">
+## Achievements
 
-### ⚡ Core ML / AI Frameworks
-<p><img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn&theme=dark&perline=8" /></p>
+| | |
+|---|---|
+| 🏅 Smart India Hackathon (SIH 2025) | Finalist & Runner-up — AthleteX |
+| 🌍 AI Genesis Hackathon | Finalist — UAE (LabLab AI) |
+| 🎤 NASSCOM Technology Conference 2025 | Innovator Participant |
+| 🏃 National-level Athlete | 100m · 200m · 4×100m relay |
 
-### 🧬 Languages & Dev Tools
-<p><img src="https://skillicons.dev/icons?i=python,mysql,git,jupyter,vscode,linux&theme=dark&perline=8" /></p>
+---
 
-### ☁️ Cloud & Deployment
-<p><img src="https://skillicons.dev/icons?i=netlify,github,mongodb,firebase&theme=dark&perline=8" /></p>
-
-</div>
-
-<br/>
-
-<div align="center">
-
-![Python](https://img.shields.io/badge/Python-Expert-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-Advanced-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-Intermediate-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![XGBoost](https://img.shields.io/badge/XGBoost-Advanced-FF6600?style=for-the-badge)
-![SQL](https://img.shields.io/badge/SQL-Proficient-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Power BI](https://img.shields.io/badge/PowerBI-Visualization-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![FastAPI](https://img.shields.io/badge/FastAPI-Backend-005571?style=for-the-badge&logo=fastapi)
-![React](https://img.shields.io/badge/React-Frontend-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-
-</div>
-
-<br/>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<br/>
-
-## 🧮 COMPETENCY SPECTRUM
-
-```
-MACHINE LEARNING & PREDICTIVE MODELING
-████████████████████████████████████████████  90% ⚡
-
-EXPLORATORY DATA ANALYSIS & FEATURE ENGINEERING
-██████████████████████████████████████████░░  88% 🔍
-
-PYTHON · PANDAS · NUMPY · SCIKIT-LEARN
-█████████████████████████████████████████░░░  87% 🐍
-
-AI SYSTEMS · GRAPH-RAG · KNOWLEDGE GRAPHS
-████████████████████████████████████████░░░░  82% 🤖
-
-SQL · DATA WRANGLING · STATISTICAL ANALYSIS
-███████████████████████████████████████░░░░░  80% 📊
-
-DEEP LEARNING · LSTM · TENSORFLOW
-██████████████████████████████████░░░░░░░░░░  75% 🧠
-
-DATA VISUALIZATION · POWER BI · MATPLOTLIB
-█████████████████████████████████████████░░░  83% 📈
-```
-
-<br/>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<br/>
-
-## 🚀 MISSION LOGS — FEATURED PROJECTS
-
-<div align="center">
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 📈 Golden Cross / Death Cross Predictor
-> *ML-Powered Stock Trend Reversal Detection*
-
-XGBoost model with walk-forward validation on historical stock data. Engineered RSI, MACD, and moving average features to detect trend reversal signals before they happen.
-
-**🎯 72% Precision · 75% Recall** across multiple stocks
-**📊 Outperforms** traditional crossover signals
-**⚡ Walk-forward** validation for robustness
-
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![XGBoost](https://img.shields.io/badge/-XGBoost-FF6600?style=flat)
-![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white)
-
-[![View Repo](https://img.shields.io/badge/VIEW_REPO-00FFAA?style=for-the-badge&logo=github&logoColor=black)](https://github.com/Affanalikhan)
-
-</td>
-<td width="50%" valign="top">
-
-### 🤖 CRISP-DM Clarification Agent (DANA)
-> *AI Data Science Assistant with Graph-RAG*
-
-AI agent for the CRISP-DM problem understanding phase. Automated dataset profiling detects missing values, distributions, and anomalies. Graph-RAG engine generates structured clarification questions.
-
-**🧠 Graph-RAG** based clarification engine
-**📋 Automated** dataset profiling pipeline
-**🎯 Reduces** early-stage analysis ambiguity
-
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![Graph-RAG](https://img.shields.io/badge/-Graph--RAG-FF6384?style=flat)
-![FastAPI](https://img.shields.io/badge/-FastAPI-005571?style=flat&logo=fastapi)
-
-[![View Repo](https://img.shields.io/badge/VIEW_REPO-00FFAA?style=for-the-badge&logo=github&logoColor=black)](https://github.com/Affanalikhan)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🏃‍♂️ AthleteX — SIH 2025 Runner-up
-> *AI-Powered Athletic Performance Platform*
-
-Full-stack platform for athlete assessment with MediaPipe + TensorFlow.js pose detection. Supports athletes, trainers, universities and SAI with offline-first mobile capability.
-
-**🎯 85–98% Accuracy** pose detection
-**📱 Offline-first** mobile Android app
-**🏛️ NEP 2020** compliance tracking
-
-![React](https://img.shields.io/badge/-React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
-
-[![Live Demo](https://img.shields.io/badge/LIVE_DEMO-00FFAA?style=for-the-badge&logo=netlify&logoColor=black)](https://athletex1.netlify.app)
-[![View Repo](https://img.shields.io/badge/VIEW_REPO-00FFAA?style=for-the-badge&logo=github&logoColor=black)](https://github.com/Affanalikhan/AthleteX)
-
-</td>
-<td width="50%" valign="top">
-
-### ✈️ NASA Turbofan RUL Prediction
-> *Predictive Maintenance with LSTM + XGBoost*
-
-Remaining Useful Life prediction for jet engines using ensemble of LSTM, Random Forest and XGBoost. Enables accurate failure prediction for industrial predictive maintenance.
-
-**📉 RMSE of 15.2** on test set
-**🔧 LSTM + RF + XGBoost** ensemble
-**⚙️ CRISP-DM** methodology applied
-
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![LSTM](https://img.shields.io/badge/-LSTM-FF6F00?style=flat&logo=tensorflow&logoColor=white)
-![XGBoost](https://img.shields.io/badge/-XGBoost-FF6600?style=flat)
-
-[![View Repo](https://img.shields.io/badge/VIEW_REPO-00FFAA?style=for-the-badge&logo=github&logoColor=black)](https://github.com/Affanalikhan)
-
-</td>
-</tr>
-</table>
-</div>
-
-<br/>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<br/>
-
-## 🐍 THE DATA SNAKE FEEDS
+## Contribution Graph
 
 <div align="center">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Affanalikhan/Affanalikhan/output/github-contribution-grid-snake-dark.svg"/>
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Affanalikhan/Affanalikhan/output/github-contribution-grid-snake.svg"/>
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Affanalikhan/Affanalikhan/output/github-contribution-grid-snake-dark.svg"/>
+  <img alt="contribution snake" src="https://raw.githubusercontent.com/Affanalikhan/Affanalikhan/output/github-contribution-grid-snake-dark.svg"/>
 </picture>
 
 </div>
 
-<br/>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<br/>
-
-## 🎯 ACTIVE LEARNING PROTOCOLS
+---
 
 <div align="center">
 
-| Challenge | Status | Focus |
-|-----------|--------|-------|
-| **Python for Data Science** | 🟢 Active | QSpiders Global Internship |
-| **AI Developer Intern** | 🟢 Active | Intellectus AI Labs |
-| **IBM Data Science** | ✅ Certified | Professional Certificate |
-| **Paper Reading** | 🔵 Ongoing | ML · Graph-RAG · Time Series |
+*Open to Data Science roles, research collaborations, and open source contributions.*
 
-</div>
+[![LinkedIn](https://img.shields.io/badge/Let's_connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/affan-ali-khan-679a27249)
 
-<br/>
-
-> **Recent deep-dives:** Walk-forward validation for time series · Graph-RAG architecture · CRISP-DM methodology · LSTM for sequence prediction · XGBoost hyperparameter tuning · Knowledge graph construction
-
-<br/>
-
-### 🎓 CREDENTIALS
-
-<div align="center">
-
-![IBM](https://img.shields.io/badge/IBM_Data_Science_Professional-Coursera-052FAD?style=for-the-badge&logo=ibm&logoColor=white)
-![Microsoft](https://img.shields.io/badge/Business_%26_Data_Analysis-Microsoft_%26_LinkedIn-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
-![NPTEL](https://img.shields.io/badge/Python_for_Data_Science-NPTEL_IIT_Madras-FF6B35?style=for-the-badge)
-![SWAYAM](https://img.shields.io/badge/Data_Science_Using_Python-SWAYAM_AMU-00897B?style=for-the-badge)
-
-</div>
-
-<br/>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<br/>
-
-## 💡 CORE DIRECTIVE
-
-<div align="center">
-<table>
-<tr>
-<td align="center" width="100%">
-
-<br/>
-
-```
-╔══════════════════════════════════════════════════════════════════╗
-║                                                                  ║
-║   "Without data, you're just another person with an opinion."   ║
-║                                          — W. Edwards Deming    ║
-║                                                                  ║
-║   The future of AI isn't about bigger models.                   ║
-║   It's about SMARTER data, CLEANER pipelines & REAL impact.     ║
-║                                                                  ║
-╚══════════════════════════════════════════════════════════════════╝
-```
-
-<br/>
-
-</td>
-</tr>
-</table>
-</div>
-
-<br/>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<br/>
-
-## 📡 ESTABLISH CONNECTION
-
-<div align="center">
-
-<a href="https://linkedin.com/in/affan-ali-khan-679a27249">
-  <img src="https://img.shields.io/badge/LinkedIn-Professional_Network-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A1929" />
-</a>&nbsp;
-<a href="mailto:affanaftab1960@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-Direct_Line-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0A1929" />
-</a>&nbsp;
-<a href="https://athletex1.netlify.app">
-  <img src="https://img.shields.io/badge/AthleteX-Live_Demo-00FFAA?style=for-the-badge&logo=netlify&logoColor=white&labelColor=0A1929" />
-</a>
-
-<br/><br/>
-
-**🔹 Open to Data Science Internships & Roles**&nbsp;&nbsp;**🔹 Research Collaborations**&nbsp;&nbsp;**🔹 Open Source Contributions**&nbsp;&nbsp;**🔹 Technical Discussions**
-
-<br/>
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=120&section=footer&text=Training%20models%20by%20day%20%E2%98%80%EF%B8%8F%20%7C%20Chasing%20insights%20by%20night%20%F0%9F%8C%99&fontSize=16&fontColor=00FFFF&animation=twinkling" width="100%"/>
-
-<div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=Affanalikhan&color=00FFAA&style=for-the-badge&label=NEURAL+VISITORS)&nbsp;
-⭐ *If you find my work useful, consider starring some repositories!*
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f3460,50:16213e,100:1a1a2e&height=100&section=footer" width="100%"/>
 
 </div>
