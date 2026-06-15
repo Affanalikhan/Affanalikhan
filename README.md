@@ -20,8 +20,6 @@
 
 ## About
 
-Third-year **CS & Data Science** student at **PES Institute of Technology and Management, Shivamogga** (VTU, GPA 8.5), currently interning at **Intellectus AI Labs** and **QSpiders Global** in Bengaluru.
-
 I work across three overlapping domains — **Data Science** (EDA, predictive modeling, statistical analysis), **Business Analysis** (translating data into decisions, CRISP-DM, structured problem framing), and **Machine Learning Engineering** (building and deploying models end-to-end). I also design and build **AI systems** — agents, knowledge graphs, and Graph-RAG pipelines — when the problem calls for it.
 
 Outside of data, I'm a national-level sprinter (100m, 200m, 4×100m relay).
